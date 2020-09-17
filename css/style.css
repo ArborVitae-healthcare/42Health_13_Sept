@@ -1,20 +1,8 @@
 @charset "UTF-8";
 /*----------------------------------------------------
-@File: Default Styles
-@Author: Md. Shahadat Hussain
-@URL: https://themeforest.net/user/droitthemes
 
-This file contains the styling for the actual template, this
-is the file you need to edit to change the look of the
-template.
 ---------------------------------------------------- */
 /*=====================================================================
-@Template Name: 
-@Author: Md. Shahadat Hussain
-@Developed By: Rony
-@Developer URL: https://themeforest.net/user/droitthemes
-
-@Default Styles
 
 Table of Content:
 01/ variables
@@ -7214,7 +7202,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   position: absolute;
   font: 400 14px "Poppins", sans-serif;
   color: #fff;
-  background: #00aff0;
+  background: #5f2eed;
   padding: 19px 32px;
   top: -10px;
   left: -39px;
